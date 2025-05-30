@@ -20,6 +20,7 @@ public class Administrador_De_Juegos {
         VistaLogIn pantallaPrincipal = new VistaLogIn();
         pantallaPrincipal.setLocationRelativeTo(null);
         pantallaPrincipal.setVisible(true);
+        System.Out.PrintLine("cambio en el codigo....");
         
     }
     
